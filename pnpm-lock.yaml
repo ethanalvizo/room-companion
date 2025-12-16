@@ -87,6 +87,11 @@ dependencies:
     specifier: ^3.24.4
     version: 3.25.76
 
+devDependencies:
+  baseline-browser-mapping:
+    specifier: ^2.9.7
+    version: 2.9.7
+
 packages:
 
   /@alloc/quick-lru@5.2.0:
@@ -2459,7 +2464,6 @@ packages:
   /baseline-browser-mapping@2.9.7:
     resolution: {integrity: sha512-k9xFKplee6KIio3IDbwj+uaCLpqzOwakOgmqzPezM0sFJlFKcg30vk2wOiAJtkTSfx0SSQDSe8q+mWA/fSH5Zg==}
     hasBin: true
-    dev: false
 
   /bcryptjs@3.0.3:
     resolution: {integrity: sha512-GlF5wPWnSa/X5LKM1o0wz0suXIINz1iHRLvTS+sLyi7XPbe5ycmYI3DlZqVGZZtDgl4DmasFg7gOB3JYbphV5g==}
